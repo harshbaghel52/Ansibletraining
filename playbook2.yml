@@ -5,7 +5,7 @@
 -
 
   # Hosts: where our play will run and options it will run with
-  hosts: client2
+  hosts: webservers
   #gather_facts: false
   strategy: free
 
